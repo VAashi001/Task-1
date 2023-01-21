@@ -1,0 +1,96 @@
+body {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.gallery {
+    position: absolute;
+    width: 600px;
+    height: 94px;
+    left: 59px;
+    top: 56px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    color: #000000;
+}
+.bigblock1{
+    position: absolute;
+    width: 634px;
+    height: 560px;
+    left: 67px;
+    top: 180px;
+    background-image: url("coconut.jpg");
+}
+
+.smallblock1 {
+    position: absolute;
+    width: 300px;
+    height: 261px;
+    left: 735px;
+    top: 180px;
+    background-image: url("coconut.jpg");
+    
+}
+
+.smallblock2 {
+    position: absolute;
+    width: 300px;
+    height: 261px;
+    left: 1069px;
+    top: 180px;
+    background-image: url("coconut.jpg");
+    
+}
+
+.smallblock3 {
+    position: absolute;
+    width: 300px;
+    height: 261px;
+    left: 735px;
+    top: 479px;
+    background-image: url("coconut.jpg");
+    
+}
+.smallblock4 {
+    position: absolute;
+    width: 300px;
+    height: 261px;
+    left: 1069px;
+    top: 479px;
+    background-image: url("coconut.jpg");
+    
+}
+.bigblock2 {
+    position: absolute;
+    width: 634px;
+    height: 238px;
+    left: 67px;
+    top: 771px;
+    background-image: url("coconut.jpg");
+    
+}
+.bigblock3 {
+    position: absolute;
+    width: 634px;
+    height: 238px;
+    left: 735px;
+    top: 771px;
+    background-image: url("coconut.jpg");
+    
+}
+.readmore {
+    position: absolute;
+    width: 276px;
+    height: 51px;
+    left: 1093px;
+    top: 942px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 51px;
+    color: #000000;
+}
